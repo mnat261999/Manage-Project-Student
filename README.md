@@ -1,1 +1,1 @@
-# Manage-Project-Student
+# ManageProjectStudent
